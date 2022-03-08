@@ -1,0 +1,366 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19044.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 16258 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Zombie Runner
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53108
+Successfully changed project path to: C:/Zombie Runner
+C:/Zombie Runner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 98.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Zombie Runner/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003512 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 132.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.097 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002464 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.102 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1784 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 4.484600 ms (FindLiveObjects: 1.142400 ms CreateObjectMapping: 0.165200 ms MarkObjects: 2.988800 ms  DeleteObjects: 0.186500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Searching-Free-1.ogg
+  artifactKey: Guid(ff8240148ee026c4babb53949381e1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Searching-Free-1.ogg using Guid(ff8240148ee026c4babb53949381e1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11f726c186be0dafba0afa15d776862') in 0.274939 seconds
+  Import took 0.339901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Screaming-Free-1.ogg
+  artifactKey: Guid(d108e9ae3908d4d479e1e41cca0188a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Screaming-Free-1.ogg using Guid(d108e9ae3908d4d479e1e41cca0188a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded752808804e8a684c7321be46c6727') in 0.053410 seconds
+  Import took 0.062998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Attacking-Free-2.ogg
+  artifactKey: Guid(83041cb4dc7766b48a4342db7511819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Attacking-Free-2.ogg using Guid(83041cb4dc7766b48a4342db7511819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42995a9d80a23814f119f6702928aa26') in 0.037037 seconds
+  Import took 0.043532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Searching-Free-1.ogg
+  artifactKey: Guid(821b6440d8e269c40b5a0eb8a44a079d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Searching-Free-1.ogg using Guid(821b6440d8e269c40b5a0eb8a44a079d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11071ec8579d59a36b9559be712a018') in 0.028475 seconds
+  Import took 0.035385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V2-Attacking-Free-1.ogg
+  artifactKey: Guid(8b9826c915109c446be0c38d54721a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V2-Attacking-Free-1.ogg using Guid(8b9826c915109c446be0c38d54721a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25531847e3f6332e140795e9fe7f5552') in 0.027853 seconds
+  Import took 0.035825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Attacking-Free-1.ogg
+  artifactKey: Guid(9f8a1e6741a342647b9c0055e1e0a7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Attacking-Free-1.ogg using Guid(9f8a1e6741a342647b9c0055e1e0a7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39929d6fd4fce546ce4937ab93dbfa8d') in 0.024678 seconds
+  Import took 0.030770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V1-Attacking-Free-1.ogg
+  artifactKey: Guid(24b617db03a924c4ab49c13feb18c10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V1-Attacking-Free-1.ogg using Guid(24b617db03a924c4ab49c13feb18c10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9141cba8e9da9b58229eb1623f7582f9') in 0.102414 seconds
+  Import took 0.107919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Damaged-Free-1.ogg
+  artifactKey: Guid(fc1882cb9cb0d474c95537bbdb4c48bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Damaged-Free-1.ogg using Guid(fc1882cb9cb0d474c95537bbdb4c48bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936dbf27d3a410c7cb92fadf37bccb33') in 0.029591 seconds
+  Import took 0.034876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Angry-Free-1.ogg
+  artifactKey: Guid(27b98a8c68f991b408c5c6afff25358c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Angry-Free-1.ogg using Guid(27b98a8c68f991b408c5c6afff25358c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc61cd6c2c04443e5f21b3ec5d1a0808') in 0.020354 seconds
+  Import took 0.025230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds
+  artifactKey: Guid(35a7c3a6ddf41da40b233084d80a0d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds using Guid(35a7c3a6ddf41da40b233084d80a0d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54f06851decc79ed2c221ab3d7e3301') in 0.012312 seconds
+  Import took 0.019217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free
+  artifactKey: Guid(5ca9eed5a30e0334589c70a9a314b61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free using Guid(5ca9eed5a30e0334589c70a9a314b61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f07c4558103679bfa7aabbe31ed7af0') in 0.011032 seconds
+  Import took 0.015799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Angry-Free-1.ogg
+  artifactKey: Guid(d0dd5a8e1fcf88c4c990c0c54c58a2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Angry-Free-1.ogg using Guid(d0dd5a8e1fcf88c4c990c0c54c58a2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e623e4e3aee726d35d085d2498740528') in 0.027216 seconds
+  Import took 0.031325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V2-Angry-Free-1.ogg
+  artifactKey: Guid(efc7bb9783bdf8a4797f4caae38bea34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V2-Angry-Free-1.ogg using Guid(efc7bb9783bdf8a4797f4caae38bea34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615e2306e5a61ce98c76016b3bacf69b') in 0.026879 seconds
+  Import took 0.032590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V1-Angry-Free-1.ogg
+  artifactKey: Guid(90054576c036ea44096d20cc89ff4da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V1-Angry-Free-1.ogg using Guid(90054576c036ea44096d20cc89ff4da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86c115896e38e2eae7b6489a68eb651') in 0.036081 seconds
+  Import took 0.041782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V1-Attacking-Free-1.ogg
+  artifactKey: Guid(1225b0f997026d64fa600c3fd93f1a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V1-Attacking-Free-1.ogg using Guid(1225b0f997026d64fa600c3fd93f1a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a26d3485a8731cb7e1fe6505716d9f') in 0.025200 seconds
+  Import took 0.030779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Angry-Free-1.ogg
+  artifactKey: Guid(1fb023a333ca93a40a9c968a37e6f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Angry-Free-1.ogg using Guid(1fb023a333ca93a40a9c968a37e6f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd185d4d1546b1c06d017b6fbb6b1ecc5') in 0.030188 seconds
+  Import took 0.036662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Damaged-Free-1.ogg
+  artifactKey: Guid(0547b940dba4d964e9e447af1dc0759a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Damaged-Free-1.ogg using Guid(0547b940dba4d964e9e447af1dc0759a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85146dd52c72dd2f1b7c1932f205706c') in 0.029627 seconds
+  Import took 0.034803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Damaged-Free-1.ogg
+  artifactKey: Guid(bdb798b20d5ac2f438f3a562f4150019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Damaged-Free-1.ogg using Guid(bdb798b20d5ac2f438f3a562f4150019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db2119eb8b84f67b865d8791247bcd8') in 0.023999 seconds
+  Import took 0.029171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Attacking-Free-1.ogg
+  artifactKey: Guid(5ce6bb262e363834db2b5cdef8a21155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V1-Attacking-Free-1.ogg using Guid(5ce6bb262e363834db2b5cdef8a21155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c494353f932f5ec8b7a09931fd3aea') in 0.024063 seconds
+  Import took 0.029528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V1-Angry-Free-1.ogg
+  artifactKey: Guid(e66b136e063cc4049b96679b13228187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z3-Free/Z3-V1-Angry-Free-1.ogg using Guid(e66b136e063cc4049b96679b13228187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6d1664f10381cb94bd645b0cca1555') in 0.027533 seconds
+  Import took 0.036838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Attacking-Free-1.ogg
+  artifactKey: Guid(4fb45f9472f5e554c82a5a9c7ba4c739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z1-Free/Z1-V2-Attacking-Free-1.ogg using Guid(4fb45f9472f5e554c82a5a9c7ba4c739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e5f614ed1f6660172613064d8974b7') in 0.028187 seconds
+  Import took 0.035999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Sreaming-Free-1.ogg
+  artifactKey: Guid(e29d35a3561cf964e9c39f5b99c2696c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IdiaSoftware/ZombieFreeCharacterSounds/Z2-Free/Z2-V2-Sreaming-Free-1.ogg using Guid(e29d35a3561cf964e9c39f5b99c2696c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7fab1b184a8b903f6df675973b41ac') in 0.026809 seconds
+  Import took 0.031968 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001858 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.134 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 108.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 6.958400 ms (FindLiveObjects: 0.592300 ms CreateObjectMapping: 2.155700 ms MarkObjects: 4.068000 ms  DeleteObjects: 0.138500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.522 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 1.748600 ms (FindLiveObjects: 0.195200 ms CreateObjectMapping: 0.082200 ms MarkObjects: 1.403500 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2286.
+Total: 1.878200 ms (FindLiveObjects: 0.190600 ms CreateObjectMapping: 0.059900 ms MarkObjects: 1.557900 ms  DeleteObjects: 0.068300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001015 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 2.224900 ms (FindLiveObjects: 0.363400 ms CreateObjectMapping: 0.249300 ms MarkObjects: 1.538500 ms  DeleteObjects: 0.071900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001061 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 2.145500 ms (FindLiveObjects: 0.197300 ms CreateObjectMapping: 0.072900 ms MarkObjects: 1.807400 ms  DeleteObjects: 0.066400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
